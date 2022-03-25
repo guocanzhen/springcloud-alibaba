@@ -6,3 +6,4 @@
 
 Nacos实现配置的统一管理和动态刷新（nacos-config）：config-client-3377
 
+Sentinel（哨兵）-- 流控
