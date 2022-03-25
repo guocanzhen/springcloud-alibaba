@@ -6,4 +6,6 @@
 
 Nacos实现配置的统一管理和动态刷新（nacos-config）：config-client-3377
 
-Sentinel（哨兵）-- 流控
+Sentinel（哨兵）-- 流控 ： sentinel-service-8401
+
+Sentinel（哨兵）-- 熔断降级： provider-mysql-8003、consumer-mysql-8803
