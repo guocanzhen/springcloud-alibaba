@@ -9,3 +9,5 @@ Nacos实现配置的统一管理和动态刷新（nacos-config）：config-clien
 Sentinel（哨兵）-- 流控 ： sentinel-service-8401
 
 Sentinel（哨兵）-- 熔断降级： provider-mysql-8003、consumer-mysql-8803
+
+业务系统集成 Seata -- 分布式事务：seata-order-8005、seata-account-8007、seata-storage-8006

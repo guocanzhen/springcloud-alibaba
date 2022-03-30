@@ -12,6 +12,9 @@
         <module>spring-cloud-alibaba-provider-mysql-8003</module>
         <module>micro-service-cloud-api</module>
         <module>spring-cloud-alibaba-consumer-mysql-8803</module>
+        <module>spring-cloud-alibaba-seata-order-8005</module>
+        <module>spring-cloud-alibaba-seata-storage-8006</module>
+        <module>spring-cloud-alibaba-seata-account-8007</module>
     </modules>
 
     <parent>
